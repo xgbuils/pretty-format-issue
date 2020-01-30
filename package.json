@@ -1,0 +1,17 @@
+{
+  "name": "pretty-format-issue",
+  "version": "0.0.1",
+  "description": "select dummy example that does not work",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest \"test.js\""
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "pretty-format": "^25.1.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
